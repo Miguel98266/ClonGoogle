@@ -24,3 +24,5 @@ La parte  principal(Logo, caja de texto y botones)  debe estar dividida en dos o
 - body no tiene margenes y tiene fuente arial
 - input tiene :hover
 - botones tienen :hover
+
+Pagina : https://miguel98266.github.io/EjercicioGoogle/
