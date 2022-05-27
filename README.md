@@ -25,4 +25,4 @@ La parte  principal(Logo, caja de texto y botones)  debe estar dividida en dos o
 - input tiene :hover
 - botones tienen :hover
 
-Pagina : https://miguel98266.github.io/EjercicioGoogle/
+Pagina : https://miguel98266.github.io/ClonGoogle/
